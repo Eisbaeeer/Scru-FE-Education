@@ -1,6 +1,7 @@
 ![Logo](pics/logo.jpg)
 # Scru-FE-Education
-ESP8266 controlled Scru-FE with routed parts
+ESP8266 controlled Scru-FE with routed parts   
+Inspirations from : https://www.thingiverse.com/thing:780050
 
 
 ## Beschreibung
