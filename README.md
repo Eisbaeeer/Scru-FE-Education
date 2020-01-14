@@ -19,7 +19,7 @@ Projekt findet man unter http://www.kidbuild.de
 ![Logo](pics/cnc.jpg)   
 ![Logo](pics/left.jpg)   
 ![Logo](pics/parts.jpg)   
-![Logo](top/cnc.jpg)   
+![Logo](pics/top.jpg)   
 
 ## Changelog
 
